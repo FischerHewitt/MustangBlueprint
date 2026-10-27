@@ -4,6 +4,8 @@ pdfplumber==0.11.9
 python-multipart==0.0.28
 python-dotenv==1.2.2
 httpx==0.27.2
+# Render eMudhra advisory: reject the compromised certificate authorities.
+certifi>=2026.10.19
 beautifulsoup4==4.12.3
 pydantic==2.9.2
 email-validator==2.3.0
